@@ -13,3 +13,7 @@ The repository is organized by language and then by problem.
 - Code is intended for learning and practice.  
 - Memory management, readability, and correctness are emphasized for C/C++ solutions.
 - Some solutions may differ from the original Codewars solutions in formatting and comments.
+
+## My Codewars Profile
+
+  https://www.codewars.com/users/Aysudo 

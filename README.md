@@ -1,5 +1,6 @@
-# Codewars Problem Solutions
+![Codewars Badge](https://www.codewars.com/users/Aysudo/badges/large) 
 
+# Codewars Problem Solutions
 This repository contains my solutions to various coding problems and exercises. It serves both as a record of my progress and
 a way to practice coding in different languages, mainly **C** and **C++**.
 
@@ -13,6 +14,12 @@ The repository is organized by language and then by problem.
 - Code is intended for learning and practice.  
 - Memory management, readability, and correctness are emphasized for C/C++ solutions.
 - Some solutions may differ from the original Codewars solutions in formatting and comments.
+
+## 📊 Progress
+
+- **Total Problems Solved:** 7
+- **Languages Used:** C
+- **Current Rank:** 7kyu
 
 ## My Codewars Profile
 
